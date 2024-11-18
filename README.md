@@ -1,4 +1,6 @@
 # Clone Of Google Dino Game using Arduino
 ## A minigame that can be run on esp32 with oled display
 Click this link to checkout the project <br />
-https://www.tiktok.com/@justmrdumdum/video/7434764459085745426?is_from_webapp=1&sender_device=pc&web_id=7276848842723640833
+https://vt.tiktok.com/ZSjaQG491/ <br />
+![image](https://github.com/user-attachments/assets/361cb2c2-cd5e-41a2-8d80-1f8f789d5b18)
+
